@@ -15,7 +15,7 @@ const variabelName = (para1, para2){
     ......
 }
 1. zero parameter
-const funcName = () => {.....}   have to have parenthesis ifno para
+const funcName = () => {.....}   HAVE to have parenthesis if no para
 
 2. one parameter
 conse funcName = (para) => {.....} OR
