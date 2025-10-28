@@ -7,7 +7,7 @@ if (course.toLowerCase() === 'cs 2500'){
     
 }else if(course.toLowerCase() === 'cs 3310')
     console.log("algorithm");
-}else if(course.toLowerCase() === 'cs 4310'){
+else if(course.toLowerCase() === 'cs 4310'){
     console.log("database");
 }else{
     console.log("other courses");
